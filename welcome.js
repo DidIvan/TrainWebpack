@@ -4,5 +4,5 @@
 'use strict';
 
 module.exports = function(message){
-    alert('welcome${message}');
+    alert('раньше сдеся была ахинея');
 };

@@ -4,4 +4,6 @@
 'use strict';
 
 let welcome = require('./welcome');
-welcome('home');
+//welcome('home');
+
+exports.welcome=welcome;
