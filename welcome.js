@@ -4,5 +4,6 @@
 'use strict';
 
 module.exports = function(message){
+    debugger;
     alert('раньше сдеся была ахинея');
 };
