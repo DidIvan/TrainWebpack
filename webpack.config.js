@@ -3,6 +3,9 @@
  */
 'use strict';
 
-module.exports={
-
-}
+module.exports = {
+    entry: "./home",
+    output: {
+        filename: "build.js"
+    }
+};
